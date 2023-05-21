@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: c00e24cfc47bc7949b556a37e9bbba58
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Cylinder001
+    100010: Cylinder002
+    100012: Cylinder010
+    100014: Cylinder011
+    100016: Cylinder012
+    100018: Cylinder013
+    100020: Cylinder014
+    100022: Cylinder015
+    100024: Cylinder016
+    100026: Cylinder017
+    100028: Cylinder018
+    100030: Cylinder019
+    100032: Cylinder020
+    100034: Cylinder021
+    100036: Cylinder022
+    100038: Cylinder023
+    100040: energy store
+    100042: //RootNode
+    100044: Player
+    100046: Sphere001
+    100048: Sphere002
+    100050: Sphere003
+    100052: Sphere004
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Cylinder001
+    400010: Cylinder002
+    400012: Cylinder010
+    400014: Cylinder011
+    400016: Cylinder012
+    400018: Cylinder013
+    400020: Cylinder014
+    400022: Cylinder015
+    400024: Cylinder016
+    400026: Cylinder017
+    400028: Cylinder018
+    400030: Cylinder019
+    400032: Cylinder020
+    400034: Cylinder021
+    400036: Cylinder022
+    400038: Cylinder023
+    400040: energy store
+    400042: //RootNode
+    400044: Player
+    400046: Sphere001
+    400048: Sphere002
+    400050: Sphere003
+    400052: Sphere004
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Cylinder001
+    2300010: Cylinder002
+    2300012: Cylinder010
+    2300014: Cylinder011
+    2300016: Cylinder012
+    2300018: Cylinder013
+    2300020: Cylinder014
+    2300022: Cylinder015
+    2300024: Cylinder016
+    2300026: Cylinder017
+    2300028: Cylinder018
+    2300030: Cylinder019
+    2300032: Cylinder020
+    2300034: Cylinder021
+    2300036: Cylinder022
+    2300038: Cylinder023
+    2300040: energy store
+    2300042: Sphere001
+    2300044: Sphere002
+    2300046: Sphere003
+    2300048: Sphere004
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Cylinder001
+    3300010: Cylinder002
+    3300012: Cylinder010
+    3300014: Cylinder011
+    3300016: Cylinder012
+    3300018: Cylinder013
+    3300020: Cylinder014
+    3300022: Cylinder015
+    3300024: Cylinder016
+    3300026: Cylinder017
+    3300028: Cylinder018
+    3300030: Cylinder019
+    3300032: Cylinder020
+    3300034: Cylinder021
+    3300036: Cylinder022
+    3300038: Cylinder023
+    3300040: energy store
+    3300042: Sphere001
+    3300044: Sphere002
+    3300046: Sphere003
+    3300048: Sphere004
+    4300000: Cylinder018
+    4300002: Cylinder020
+    4300004: Cylinder022
+    4300006: Cylinder023
+    4300008: Box001
+    4300010: Cylinder013
+    4300012: Box003
+    4300014: Box004
+    4300016: Cylinder011
+    4300018: Cylinder016
+    4300020: Cylinder019
+    4300022: Cylinder021
+    4300024: Sphere002
+    4300026: Cylinder001
+    4300028: energy store
+    4300030: Sphere003
+    4300032: Sphere001
+    4300034: Cylinder012
+    4300036: Cylinder014
+    4300038: Box002
+    4300040: Cylinder002
+    4300042: Cylinder015
+    4300044: Cylinder010
+    4300046: Cylinder017
+    4300048: Sphere004
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 449c3ece9a30dde41b54515f659494e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 9a62136b9a42a6847a61c4627189ea54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5bcfee09c4d9edc42b747433ee0579c2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

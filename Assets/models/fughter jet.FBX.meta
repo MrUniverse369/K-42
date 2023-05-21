@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: d2ad17eb1f2a0c0459ec657db2d7be80
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box004
+    100004: Box005
+    100006: Cylinder001
+    100008: Cylinder001_MeshPart0
+    100010: Cylinder001_MeshPart1
+    100012: Cylinder002
+    100014: Cylinder004
+    100016: Cylinder005
+    100018: flaps
+    100020: //RootNode
+    100022: Object001
+    100024: Plane001
+    100026: Plane002
+    100028: Plane003
+    100030: top tail wing
+    100032: windshield
+    400000: Box002
+    400002: Box004
+    400004: Box005
+    400006: Cylinder001
+    400008: Cylinder001_MeshPart0
+    400010: Cylinder001_MeshPart1
+    400012: Cylinder002
+    400014: Cylinder004
+    400016: Cylinder005
+    400018: flaps
+    400020: //RootNode
+    400022: Object001
+    400024: Plane001
+    400026: Plane002
+    400028: Plane003
+    400030: top tail wing
+    400032: windshield
+    2300000: Box002
+    2300002: Box004
+    2300004: Box005
+    2300006: Cylinder001_MeshPart0
+    2300008: Cylinder001_MeshPart1
+    2300010: Cylinder002
+    2300012: Cylinder004
+    2300014: Cylinder005
+    2300016: flaps
+    2300018: Object001
+    2300020: Plane001
+    2300022: Plane002
+    2300024: Plane003
+    2300026: top tail wing
+    2300028: windshield
+    3300000: Box002
+    3300002: Box004
+    3300004: Box005
+    3300006: Cylinder001_MeshPart0
+    3300008: Cylinder001_MeshPart1
+    3300010: Cylinder002
+    3300012: Cylinder004
+    3300014: Cylinder005
+    3300016: flaps
+    3300018: Object001
+    3300020: Plane001
+    3300022: Plane002
+    3300024: Plane003
+    3300026: top tail wing
+    3300028: windshield
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Plane003
+    4300006: Cylinder001_MeshPart0
+    4300008: Cylinder001_MeshPart1
+    4300010: Cylinder002
+    4300012: Box002
+    4300014: Cylinder004
+    4300016: Cylinder005
+    4300018: top tail wing
+    4300020: windshield
+    4300022: flaps
+    4300024: Box004
+    4300026: Object001
+    4300028: Box005
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 3d4f947bbd8a3b74b969dcc4856c6bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5bcfee09c4d9edc42b747433ee0579c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standardmaterial
+    second: {fileID: 2100000, guid: 8f44888ed8a97a84f9c5b0105dd4d7c8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
